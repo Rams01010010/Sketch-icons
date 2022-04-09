@@ -4,7 +4,7 @@ Note : Remaining icons should be added here in list
 
 | Image                                   | Name                                                   | Image                                    | Name                                                    |
 | --------------------------------------- | ------------------------------------------------------ | ---------------------------------------- | ------------------------------------------------------- |
-| ![](./assets/arrow-up.svg)              | <mark style="color:purple;">`ArrowUp`</mark>             | ![](./assets/arrow-left.svg)             | <mark style="color:purple;">`ArrowLeft`</mark>            |
+| ![](./assets/simple/arrow-up.svg)              | <mark style="color:purple;">`ArrowUp`</mark>             | ![](./assets/arrow-left.svg)             | <mark style="color:purple;">`ArrowLeft`</mark>            |
 | ![](./assets/arrow-up-fill.svg)         | <mark style="color:purple;">`ArrowUpFill`</mark>         | ![](./assets/arrow-left-fill.svg)        | <mark style="color:purple;">`ArrowLeftFill`</mark>        |
 | ![](./assets/arrow-up-circle.svg)       | <mark style="color:purple;">`ArrowUpCircle`</mark>       | ![](./assets/arrow-left-circle.svg)      | <mark style="color:purple;">`ArrowLeftCircle`</mark>      |
 | ![](./assets/arrow-down.svg)            | <mark style="color:purple;">`ArrowDown`</mark>           | ![](./assets/arrow-right.svg)            | <mark style="color:purple;">`ArrowRight`</mark>           |
